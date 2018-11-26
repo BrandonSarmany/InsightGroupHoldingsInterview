@@ -1,0 +1,10 @@
+C:\VSWorkspace\Insight\Insight\bin\Debug\Insight.exe.config
+C:\VSWorkspace\Insight\Insight\bin\Debug\Insight.exe
+C:\VSWorkspace\Insight\Insight\bin\Debug\Insight.pdb
+C:\VSWorkspace\Insight\Insight\obj\Debug\Insight.csprojAssemblyReference.cache
+C:\VSWorkspace\Insight\Insight\obj\Debug\Insight.Form1.resources
+C:\VSWorkspace\Insight\Insight\obj\Debug\Insight.Properties.Resources.resources
+C:\VSWorkspace\Insight\Insight\obj\Debug\Insight.csproj.GenerateResource.cache
+C:\VSWorkspace\Insight\Insight\obj\Debug\Insight.csproj.CoreCompileInputs.cache
+C:\VSWorkspace\Insight\Insight\obj\Debug\Insight.exe
+C:\VSWorkspace\Insight\Insight\obj\Debug\Insight.pdb
